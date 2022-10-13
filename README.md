@@ -1,10 +1,10 @@
 Hello world.
 
-## Cybersecurity / Research Work
+## 🔒 Cybersecurity / Research Work
 *None yet...*
-## Procedural Generation Algorithms
+## 🎲 Procedural Generation Algorithms
 *None yet...*
-## Roguelike Algorithms
+## ⚔️ Roguelike Algorithms
 ### FOV Algorithms
 - [Mingos' Restrictive Precise Angle Shadowcasting (MRPAS)](https://github.com/ZombiePointer/MRPAS-FOV-Algorithm)
 ## SDL2
