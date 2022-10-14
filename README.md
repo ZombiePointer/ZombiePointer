@@ -1,7 +1,8 @@
 Hello world.
 
 ## 🔒 Cybersecurity / Research Work
-*None yet...*
+### Miscellaneous
+- [Lingo and Acronym Glossary](https://github.com/ZombiePointer/Cybersecurity-Lingo-and-Acronym-Glossary)
 ## 🎲 Procedural Generation Algorithms
 *None yet...*
 ## ⚔️ Roguelike Algorithms
